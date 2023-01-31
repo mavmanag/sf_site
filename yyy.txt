@@ -1,6 +1,6 @@
 YYYYY
 Y beta branch Y
 Y
-Y Hello from alpha X
+X Hello from alpha X
 Y
 
